@@ -1,0 +1,22 @@
+{
+  "sessions": [
+    {
+      "id": "850774292",
+      "data": {
+        "userState": {
+          "step": "anotherMonth",
+          "previousSteps": [
+            "start",
+            "start",
+            "start",
+            "admin_menu",
+            "admin_menu",
+            "start",
+            "admin_menu",
+            "create_schedule"
+          ]
+        }
+      }
+    }
+  ]
+}
