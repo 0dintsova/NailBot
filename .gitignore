@@ -1,0 +1,10 @@
+# Файлы Node.js
+node_modules/
+.env
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+.vscode/
+.idea/
